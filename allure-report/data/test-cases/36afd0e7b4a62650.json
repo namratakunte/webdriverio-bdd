@@ -1,0 +1,72 @@
+{
+  "uid" : "36afd0e7b4a62650",
+  "name" : "When i enter personal information DOB \"7\" months \"5\" years \"1991\"",
+  "fullName" : "Register and product checkout: As a new user, I can able to register and login to website.When i enter personal information DOB \"7\" months \"5\" years \"1991\"",
+  "historyId" : "211e00bda92e4e8e87f7df42c9e87704",
+  "time" : {
+    "start" : 1633584229580,
+    "stop" : 1633584236130,
+    "duration" : 6550
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6e769c6a928b4cf0",
+      "name" : "Screenshot",
+      "source" : "6e769c6a928b4cf0.png",
+      "type" : "image/png",
+      "size" : 43334
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testClass",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testMethod",
+    "value" : "When i enter personal information DOB \"7\" months \"5\" years \"1991\""
+  }, {
+    "name" : "package",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "36afd0e7b4a62650.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

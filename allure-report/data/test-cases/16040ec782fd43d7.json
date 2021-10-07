@@ -1,0 +1,82 @@
+{
+  "uid" : "16040ec782fd43d7",
+  "name" : "",
+  "fullName" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut.",
+  "historyId" : "45cc1081935083055415c73dd7f4e058",
+  "time" : {
+    "start" : 1633586073971,
+    "stop" : 1633586073972,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut"
+  }, {
+    "name" : "testClass",
+    "value" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c5476220f639f8f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585897469,
+        "stop" : 1633585897470,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "12fa5442110f678e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633584530393,
+        "stop" : 1633584530395,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "f8199ecdadb1702f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633584345551,
+        "stop" : 1633584345551,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "16040ec782fd43d7.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

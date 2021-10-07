@@ -1,0 +1,56 @@
+{
+  "uid" : "20206bf679da760f",
+  "name" : "Given I am on the login page",
+  "fullName" : "Register and product checkout: As a new user, I can able to register and login to website.Given I am on the login page",
+  "historyId" : "622e13e4876627252e113feb96240103",
+  "time" : {
+    "start" : 1633585651026,
+    "stop" : 1633585663232,
+    "duration" : 12206
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testClass",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the login page"
+  }, {
+    "name" : "package",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "20206bf679da760f.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

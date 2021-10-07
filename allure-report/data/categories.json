@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "RequestError: read ECONNRESET",
+      "children" : [ {
+        "name" : "Then I enter personal information title \"MR\" firstname \"abc\" lastName \"xyz\" email \"testing77779@testtest.com\" password \"123456789\"",
+        "uid" : "1ad320950892e0da",
+        "parentUid" : "7e230326c7ec1dec317285389f0b7e98",
+        "status" : "broken",
+        "time" : {
+          "start" : 1633585698611,
+          "stop" : 1633585698812,
+          "duration" : 201
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-94.0.4606.71" ]
+      } ],
+      "uid" : "7e230326c7ec1dec317285389f0b7e98"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

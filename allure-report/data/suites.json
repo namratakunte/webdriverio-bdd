@@ -1,0 +1,394 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Register and product checkout: As a registered user, I can able to login to website and logout",
+    "children" : [ {
+      "name" : "When I Login with \"testing77779@testtest.com\" and \"123456789\"",
+      "uid" : "17502abcabbcf25d",
+      "parentUid" : "bddc30392c54f109dcce308055a62dfb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633584309108,
+        "stop" : 1633584329825,
+        "duration" : 20717
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "3faf3c879beb08b3",
+      "parentUid" : "bddc30392c54f109dcce308055a62dfb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585846183,
+        "stop" : 1633585849303,
+        "duration" : 3120
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "Then I click on sign in link",
+      "uid" : "65871bc3c6edbf9c",
+      "parentUid" : "bddc30392c54f109dcce308055a62dfb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585849303,
+        "stop" : 1633585862487,
+        "duration" : 13184
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "When I Login with \"testing777700@testtest.com\" and \"123456789\"",
+      "uid" : "3625db72c9cb9da4",
+      "parentUid" : "bddc30392c54f109dcce308055a62dfb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585862488,
+        "stop" : 1633585883736,
+        "duration" : 21248
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "Then I validate correct \"abc\" lastname \"xyz\" is displayed",
+      "uid" : "a9bd05653f30ffad",
+      "parentUid" : "bddc30392c54f109dcce308055a62dfb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585883736,
+        "stop" : 1633585884074,
+        "duration" : 338
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "Then I sign out from application",
+      "uid" : "4c4d6d97cec1ba96",
+      "parentUid" : "bddc30392c54f109dcce308055a62dfb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585884077,
+        "stop" : 1633585897448,
+        "duration" : 13371
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "",
+      "uid" : "72e7e7e681851ee6",
+      "parentUid" : "bddc30392c54f109dcce308055a62dfb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585897448,
+        "stop" : 1633585897449,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    } ],
+    "uid" : "bddc30392c54f109dcce308055a62dfb"
+  }, {
+    "name" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut",
+    "children" : [ {
+      "name" : "When I Login with \"testing77779@testtest.com\" and \"123456789\"",
+      "uid" : "a932eedeea91e332",
+      "parentUid" : "cff96a7306efbfc72d8aa844b54b4a93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633584364014,
+        "stop" : 1633584384564,
+        "duration" : 20550
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "5ac09ef1295e15d2",
+      "parentUid" : "cff96a7306efbfc72d8aa844b54b4a93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585897470,
+        "stop" : 1633585900401,
+        "duration" : 2931
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "Then I click on sign in link",
+      "uid" : "7a317e72d7ba22cf",
+      "parentUid" : "cff96a7306efbfc72d8aa844b54b4a93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585900402,
+        "stop" : 1633585916987,
+        "duration" : 16585
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "When I Login with \"testing777700@testtest.com\" and \"123456789\"",
+      "uid" : "25e2e13be96a46b0",
+      "parentUid" : "cff96a7306efbfc72d8aa844b54b4a93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585916988,
+        "stop" : 1633585939423,
+        "duration" : 22435
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "Then I validate correct \"abc\" lastname \"xyz\" is displayed",
+      "uid" : "34843a8b8b355bce",
+      "parentUid" : "cff96a7306efbfc72d8aa844b54b4a93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585939424,
+        "stop" : 1633585939763,
+        "duration" : 339
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "Then I add product to cart",
+      "uid" : "72f60d0da5c0e658",
+      "parentUid" : "cff96a7306efbfc72d8aa844b54b4a93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585939763,
+        "stop" : 1633585988443,
+        "duration" : 48680
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "Then I checkout till payment",
+      "uid" : "e1d1aa88c680f598",
+      "parentUid" : "cff96a7306efbfc72d8aa844b54b4a93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585988443,
+        "stop" : 1633586034197,
+        "duration" : 45754
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "Then I validate product details \"Faded Short Sleeve T-shirts\"",
+      "uid" : "857b5735c30bd1eb",
+      "parentUid" : "cff96a7306efbfc72d8aa844b54b4a93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633586034197,
+        "stop" : 1633586061790,
+        "duration" : 27593
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "Then I sign out from application",
+      "uid" : "139c07026c69f790",
+      "parentUid" : "cff96a7306efbfc72d8aa844b54b4a93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633586061790,
+        "stop" : 1633586073970,
+        "duration" : 12180
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "",
+      "uid" : "16040ec782fd43d7",
+      "parentUid" : "cff96a7306efbfc72d8aa844b54b4a93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633586073971,
+        "stop" : 1633586073972,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    } ],
+    "uid" : "cff96a7306efbfc72d8aa844b54b4a93"
+  }, {
+    "name" : "Register and product checkout: As a new user, I can able to register and login to website",
+    "children" : [ {
+      "name" : "When I register with testing77779@testtest.com",
+      "uid" : "16cef5b9dc8b2e22",
+      "parentUid" : "bb0a0a0ef1210fa39b7a7c3f082beb9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585663232,
+        "stop" : 1633585698610,
+        "duration" : 35378
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "Then I enter personal information title \"MR\" firstname \"abc\" lastName \"xyz\" email \"testing77779@testtest.com\" password \"123456789\"",
+      "uid" : "1ad320950892e0da",
+      "parentUid" : "bb0a0a0ef1210fa39b7a7c3f082beb9b",
+      "status" : "broken",
+      "time" : {
+        "start" : 1633585698611,
+        "stop" : 1633585698812,
+        "duration" : 201
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "766034159cfd0b05",
+      "parentUid" : "bb0a0a0ef1210fa39b7a7c3f082beb9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585733185,
+        "stop" : 1633585741956,
+        "duration" : 8771
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "When I register with testing777700@testtest.com",
+      "uid" : "b4b1c445622b3ff0",
+      "parentUid" : "bb0a0a0ef1210fa39b7a7c3f082beb9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585741956,
+        "stop" : 1633585776916,
+        "duration" : 34960
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "Then I enter personal information title \"MR\" firstname \"abc\" lastName \"xyz\" email \"testing777700@testtest.com\" password \"123456789\"",
+      "uid" : "545f6724deb388c1",
+      "parentUid" : "bb0a0a0ef1210fa39b7a7c3f082beb9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585776916,
+        "stop" : 1633585791693,
+        "duration" : 14777
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "When i enter personal information DOB \"7\" months \"5\" years \"1991\"",
+      "uid" : "6ea2c6a57845348b",
+      "parentUid" : "bb0a0a0ef1210fa39b7a7c3f082beb9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585791693,
+        "stop" : 1633585798430,
+        "duration" : 6737
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "Then I enter address detail \"abc\" lastname \"xyz\" company \"IT\" address \"MIDC\" city \"pune\"",
+      "uid" : "c7562417a1769581",
+      "parentUid" : "bb0a0a0ef1210fa39b7a7c3f082beb9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585798431,
+        "stop" : 1633585810026,
+        "duration" : 11595
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "When I select state \"8\" postalcode \"11104\" mobilenumber \"8888888888\" myaddress \"Allise\"",
+      "uid" : "812bcec556a87546",
+      "parentUid" : "bb0a0a0ef1210fa39b7a7c3f082beb9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585810026,
+        "stop" : 1633585819256,
+        "duration" : 9230
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "Then I click on register button",
+      "uid" : "9633c0fbd82373c6",
+      "parentUid" : "bb0a0a0ef1210fa39b7a7c3f082beb9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585819256,
+        "stop" : 1633585832447,
+        "duration" : 13191
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "Then I validate correct \"abc\" lastname \"xyz\" is displayed",
+      "uid" : "1c377b2dc3018cd4",
+      "parentUid" : "bb0a0a0ef1210fa39b7a7c3f082beb9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585832447,
+        "stop" : 1633585832848,
+        "duration" : 401
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "Then I sign out from application",
+      "uid" : "d2d42198859cd366",
+      "parentUid" : "bb0a0a0ef1210fa39b7a7c3f082beb9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585832848,
+        "stop" : 1633585846134,
+        "duration" : 13286
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "",
+      "uid" : "b93e3373733728e0",
+      "parentUid" : "bb0a0a0ef1210fa39b7a7c3f082beb9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585846136,
+        "stop" : 1633585846137,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    } ],
+    "uid" : "bb0a0a0ef1210fa39b7a7c3f082beb9b"
+  } ]
+}

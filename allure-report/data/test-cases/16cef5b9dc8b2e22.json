@@ -1,0 +1,91 @@
+{
+  "uid" : "16cef5b9dc8b2e22",
+  "name" : "When I register with testing77779@testtest.com",
+  "fullName" : "Register and product checkout: As a new user, I can able to register and login to website.When I register with testing77779@testtest.com",
+  "historyId" : "db41eac927ec79c132019f768d5d511f",
+  "time" : {
+    "start" : 1633585663232,
+    "stop" : 1633585698610,
+    "duration" : 35378
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "427c9060378480d3",
+      "name" : "Screenshot",
+      "source" : "427c9060378480d3.png",
+      "type" : "image/png",
+      "size" : 798405
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testClass",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I register with testing77779@testtest.com"
+  }, {
+    "name" : "package",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "185c81daa5e4eabe",
+      "status" : "broken",
+      "statusDetails" : "RequestError: read ECONNRESET",
+      "time" : {
+        "start" : 1633585313212,
+        "stop" : 1633585313864,
+        "duration" : 652
+      }
+    }, {
+      "uid" : "a00c57b32ebc1627",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633584182570,
+        "stop" : 1633584215272,
+        "duration" : 32702
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "16cef5b9dc8b2e22.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

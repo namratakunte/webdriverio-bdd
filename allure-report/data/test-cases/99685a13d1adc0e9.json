@@ -1,0 +1,56 @@
+{
+  "uid" : "99685a13d1adc0e9",
+  "name" : "Then I enter address detail \"abc\" lastname \"xyz\" company \"IT\" address \"MIDC\" city \"pune\"",
+  "fullName" : "Register and product checkout: As a new user, I can able to register and login to website.Then I enter address detail \"abc\" lastname \"xyz\" company \"IT\" address \"MIDC\" city \"pune\"",
+  "historyId" : "ea3460f1a240c086218315a4256680d5",
+  "time" : {
+    "start" : 1633585313865,
+    "stop" : 1633585313866,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testClass",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I enter address detail \"abc\" lastname \"xyz\" company \"IT\" address \"MIDC\" city \"pune\""
+  }, {
+    "name" : "package",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "99685a13d1adc0e9.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

@@ -1,0 +1,72 @@
+{
+  "uid" : "bd7b82f9f2345c30",
+  "name" : "Then I sign out from application",
+  "fullName" : "Register and product checkout: As a registered user, I can able to login to website and logout.Then I sign out from application",
+  "historyId" : "bb1fe358596db1fa7f820c4c369e6ade",
+  "time" : {
+    "start" : 1633584330168,
+    "stop" : 1633584345532,
+    "duration" : 15364
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bf990add02d57336",
+      "name" : "Screenshot",
+      "source" : "bf990add02d57336.png",
+      "type" : "image/png",
+      "size" : 159604
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register and product checkout: As a registered user, I can able to login to website and logout"
+  }, {
+    "name" : "testClass",
+    "value" : "Register and product checkout: As a registered user, I can able to login to website and logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I sign out from application"
+  }, {
+    "name" : "package",
+    "value" : "Register and product checkout: As a registered user, I can able to login to website and logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bd7b82f9f2345c30.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

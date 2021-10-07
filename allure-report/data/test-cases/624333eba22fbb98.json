@@ -1,0 +1,72 @@
+{
+  "uid" : "624333eba22fbb98",
+  "name" : "Given I am on the login page",
+  "fullName" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut.Given I am on the login page",
+  "historyId" : "c0973f5fb397216f66aa765e569675b3",
+  "time" : {
+    "start" : 1633584345552,
+    "stop" : 1633584348599,
+    "duration" : 3047
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "28da99ef8bdac095",
+      "name" : "Screenshot",
+      "source" : "28da99ef8bdac095.png",
+      "type" : "image/png",
+      "size" : 60740
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut"
+  }, {
+    "name" : "testClass",
+    "value" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the login page"
+  }, {
+    "name" : "package",
+    "value" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "624333eba22fbb98.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

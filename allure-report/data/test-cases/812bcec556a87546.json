@@ -1,0 +1,98 @@
+{
+  "uid" : "812bcec556a87546",
+  "name" : "When I select state \"8\" postalcode \"11104\" mobilenumber \"8888888888\" myaddress \"Allise\"",
+  "fullName" : "Register and product checkout: As a new user, I can able to register and login to website.When I select state \"8\" postalcode \"11104\" mobilenumber \"8888888888\" myaddress \"Allise\"",
+  "historyId" : "d9a6690ae3dd63493bef7eb88b541e5e",
+  "time" : {
+    "start" : 1633585810026,
+    "stop" : 1633585819256,
+    "duration" : 9230
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "321f818e1fea4de1",
+      "name" : "Screenshot",
+      "source" : "321f818e1fea4de1.png",
+      "type" : "image/png",
+      "size" : 39624
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testClass",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select state \"8\" postalcode \"11104\" mobilenumber \"8888888888\" myaddress \"Allise\""
+  }, {
+    "name" : "package",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6d2e5a7337f001ff",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1633585698816,
+        "stop" : 1633585698817,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "1b1e2c9d463caead",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1633585313866,
+        "stop" : 1633585313866,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "85091b7d810ced96",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633584247347,
+        "stop" : 1633584256680,
+        "duration" : 9333
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "812bcec556a87546.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

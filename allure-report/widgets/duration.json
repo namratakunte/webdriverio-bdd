@@ -1,0 +1,291 @@
+[ {
+  "uid" : "d2d42198859cd366",
+  "name" : "Then I sign out from application",
+  "time" : {
+    "start" : 1633585832848,
+    "stop" : 1633585846134,
+    "duration" : 13286
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "545f6724deb388c1",
+  "name" : "Then I enter personal information title \"MR\" firstname \"abc\" lastName \"xyz\" email \"testing777700@testtest.com\" password \"123456789\"",
+  "time" : {
+    "start" : 1633585776916,
+    "stop" : 1633585791693,
+    "duration" : 14777
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "17502abcabbcf25d",
+  "name" : "When I Login with \"testing77779@testtest.com\" and \"123456789\"",
+  "time" : {
+    "start" : 1633584309108,
+    "stop" : 1633584329825,
+    "duration" : 20717
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "16040ec782fd43d7",
+  "name" : "",
+  "time" : {
+    "start" : 1633586073971,
+    "stop" : 1633586073972,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ac09ef1295e15d2",
+  "name" : "Given I am on the login page",
+  "time" : {
+    "start" : 1633585897470,
+    "stop" : 1633585900401,
+    "duration" : 2931
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72e7e7e681851ee6",
+  "name" : "",
+  "time" : {
+    "start" : 1633585897448,
+    "stop" : 1633585897449,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3faf3c879beb08b3",
+  "name" : "Given I am on the login page",
+  "time" : {
+    "start" : 1633585846183,
+    "stop" : 1633585849303,
+    "duration" : 3120
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ad320950892e0da",
+  "name" : "Then I enter personal information title \"MR\" firstname \"abc\" lastName \"xyz\" email \"testing77779@testtest.com\" password \"123456789\"",
+  "time" : {
+    "start" : 1633585698611,
+    "stop" : 1633585698812,
+    "duration" : 201
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e1d1aa88c680f598",
+  "name" : "Then I checkout till payment",
+  "time" : {
+    "start" : 1633585988443,
+    "stop" : 1633586034197,
+    "duration" : 45754
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "812bcec556a87546",
+  "name" : "When I select state \"8\" postalcode \"11104\" mobilenumber \"8888888888\" myaddress \"Allise\"",
+  "time" : {
+    "start" : 1633585810026,
+    "stop" : 1633585819256,
+    "duration" : 9230
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4c4d6d97cec1ba96",
+  "name" : "Then I sign out from application",
+  "time" : {
+    "start" : 1633585884077,
+    "stop" : 1633585897448,
+    "duration" : 13371
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1c377b2dc3018cd4",
+  "name" : "Then I validate correct \"abc\" lastname \"xyz\" is displayed",
+  "time" : {
+    "start" : 1633585832447,
+    "stop" : 1633585832848,
+    "duration" : 401
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a932eedeea91e332",
+  "name" : "When I Login with \"testing77779@testtest.com\" and \"123456789\"",
+  "time" : {
+    "start" : 1633584364014,
+    "stop" : 1633584384564,
+    "duration" : 20550
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b93e3373733728e0",
+  "name" : "",
+  "time" : {
+    "start" : 1633585846136,
+    "stop" : 1633585846137,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "766034159cfd0b05",
+  "name" : "Given I am on the login page",
+  "time" : {
+    "start" : 1633585733185,
+    "stop" : 1633585741956,
+    "duration" : 8771
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ea2c6a57845348b",
+  "name" : "When i enter personal information DOB \"7\" months \"5\" years \"1991\"",
+  "time" : {
+    "start" : 1633585791693,
+    "stop" : 1633585798430,
+    "duration" : 6737
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7562417a1769581",
+  "name" : "Then I enter address detail \"abc\" lastname \"xyz\" company \"IT\" address \"MIDC\" city \"pune\"",
+  "time" : {
+    "start" : 1633585798431,
+    "stop" : 1633585810026,
+    "duration" : 11595
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "16cef5b9dc8b2e22",
+  "name" : "When I register with testing77779@testtest.com",
+  "time" : {
+    "start" : 1633585663232,
+    "stop" : 1633585698610,
+    "duration" : 35378
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "857b5735c30bd1eb",
+  "name" : "Then I validate product details \"Faded Short Sleeve T-shirts\"",
+  "time" : {
+    "start" : 1633586034197,
+    "stop" : 1633586061790,
+    "duration" : 27593
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72f60d0da5c0e658",
+  "name" : "Then I add product to cart",
+  "time" : {
+    "start" : 1633585939763,
+    "stop" : 1633585988443,
+    "duration" : 48680
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "139c07026c69f790",
+  "name" : "Then I sign out from application",
+  "time" : {
+    "start" : 1633586061790,
+    "stop" : 1633586073970,
+    "duration" : 12180
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "25e2e13be96a46b0",
+  "name" : "When I Login with \"testing777700@testtest.com\" and \"123456789\"",
+  "time" : {
+    "start" : 1633585916988,
+    "stop" : 1633585939423,
+    "duration" : 22435
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a9bd05653f30ffad",
+  "name" : "Then I validate correct \"abc\" lastname \"xyz\" is displayed",
+  "time" : {
+    "start" : 1633585883736,
+    "stop" : 1633585884074,
+    "duration" : 338
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b4b1c445622b3ff0",
+  "name" : "When I register with testing777700@testtest.com",
+  "time" : {
+    "start" : 1633585741956,
+    "stop" : 1633585776916,
+    "duration" : 34960
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9633c0fbd82373c6",
+  "name" : "Then I click on register button",
+  "time" : {
+    "start" : 1633585819256,
+    "stop" : 1633585832447,
+    "duration" : 13191
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3625db72c9cb9da4",
+  "name" : "When I Login with \"testing777700@testtest.com\" and \"123456789\"",
+  "time" : {
+    "start" : 1633585862488,
+    "stop" : 1633585883736,
+    "duration" : 21248
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65871bc3c6edbf9c",
+  "name" : "Then I click on sign in link",
+  "time" : {
+    "start" : 1633585849303,
+    "stop" : 1633585862487,
+    "duration" : 13184
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7a317e72d7ba22cf",
+  "name" : "Then I click on sign in link",
+  "time" : {
+    "start" : 1633585900402,
+    "stop" : 1633585916987,
+    "duration" : 16585
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "34843a8b8b355bce",
+  "name" : "Then I validate correct \"abc\" lastname \"xyz\" is displayed",
+  "time" : {
+    "start" : 1633585939424,
+    "stop" : 1633585939763,
+    "duration" : 339
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

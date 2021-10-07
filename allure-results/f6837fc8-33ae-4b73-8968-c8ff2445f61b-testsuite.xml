@@ -1,0 +1,115 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1633585846180' stop='1633585897450'>
+    <name>Register and product checkout: As a registered user, I can able to login to website and logout</name>
+    <title>Register and product checkout: As a registered user, I can able to login to website and logout</title>
+    <test-cases>
+        <test-case start='1633585846180' status='passed' stop='1633585846183'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1633585846183' status='passed' stop='1633585849303'>
+            <name>Given I am on the login page</name>
+            <title>Given I am on the login page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d5a350e7-5cdd-4d42-936d-95325a3d98c2-attachment.png' type='image/png' size='139970'/>
+            </attachments>
+        </test-case>
+        <test-case start='1633585849303' status='passed' stop='1633585862487'>
+            <name>Then I click on sign in link</name>
+            <title>Then I click on sign in link</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7222d801-44fb-4ba1-bffc-da3facd03d25-attachment.png' type='image/png' size='833117'/>
+            </attachments>
+        </test-case>
+        <test-case start='1633585862488' status='passed' stop='1633585883736'>
+            <name>When I Login with "testing777700@testtest.com" and "123456789"</name>
+            <title>When I Login with "testing777700@testtest.com" and "123456789"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='36545b00-ff69-487c-b306-065cd81b9ad4-attachment.png' type='image/png' size='139970'/>
+            </attachments>
+        </test-case>
+        <test-case start='1633585883736' status='passed' stop='1633585884074'>
+            <name>Then I validate correct "abc" lastname "xyz" is displayed</name>
+            <title>Then I validate correct "abc" lastname "xyz" is displayed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='31fb01c2-45d0-4b93-aa9e-4af689849feb-attachment.png' type='image/png' size='159604'/>
+            </attachments>
+        </test-case>
+        <test-case start='1633585884077' status='passed' stop='1633585897448'>
+            <name>Then I sign out from application</name>
+            <title>Then I sign out from application</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='bf584bc2-9763-4b52-be6a-09adcae09d73-attachment.png' type='image/png' size='159604'/>
+            </attachments>
+        </test-case>
+        <test-case start='1633585897448' status='passed' stop='1633585897449'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

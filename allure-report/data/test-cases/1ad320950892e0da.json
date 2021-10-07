@@ -1,0 +1,80 @@
+{
+  "uid" : "1ad320950892e0da",
+  "name" : "Then I enter personal information title \"MR\" firstname \"abc\" lastName \"xyz\" email \"testing77779@testtest.com\" password \"123456789\"",
+  "fullName" : "Register and product checkout: As a new user, I can able to register and login to website.Then I enter personal information title \"MR\" firstname \"abc\" lastName \"xyz\" email \"testing77779@testtest.com\" password \"123456789\"",
+  "historyId" : "eab02db9b2dbc0e414c0a88591a4ae75",
+  "time" : {
+    "start" : 1633585698611,
+    "stop" : 1633585698812,
+    "duration" : 201
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "RequestError: read ECONNRESET",
+  "statusTrace" : "RequestError: read ECONNRESET\n                    at ClientRequest.<anonymous> (C:\\Users\\nikhi\\OneDrive\\Documents\\webdriverio-bdd\\node_modules\\got\\dist\\source\\core\\index.js:956:111)\n                    at Object.onceWrapper (events.js:520:26)\n                    at ClientRequest.emit (events.js:412:35)\n                    at ClientRequest.emit (domain.js:470:12)\n                    at ClientRequest.origin.emit (C:\\Users\\nikhi\\OneDrive\\Documents\\webdriverio-bdd\\node_modules\\@szmarczak\\http-timer\\dist\\source\\index.js:43:20)\n                    at Socket.socketErrorListener (_http_client.js:475:9)\n                    at Socket.emit (events.js:400:28)\n                    at Socket.emit (domain.js:470:12)\n                    at emitErrorNT (internal/streams/destroy.js:106:8)\n                    at emitErrorCloseNT (internal/streams/destroy.js:74:3)\n                    at processTicksAndRejections (internal/process/task_queues.js:82:21)\n                    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testClass",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I enter personal information title \"MR\" firstname \"abc\" lastName \"xyz\" email \"testing77779@testtest.com\" password \"123456789\""
+  }, {
+    "name" : "package",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "dddb96d231630fba",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1633585313864,
+        "stop" : 1633585313865,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "5035c6b25b2d781a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633584215272,
+        "stop" : 1633584229580,
+        "duration" : 14308
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "1ad320950892e0da.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

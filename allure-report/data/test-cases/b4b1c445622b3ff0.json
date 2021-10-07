@@ -1,0 +1,74 @@
+{
+  "uid" : "b4b1c445622b3ff0",
+  "name" : "When I register with testing777700@testtest.com",
+  "fullName" : "Register and product checkout: As a new user, I can able to register and login to website.When I register with testing777700@testtest.com",
+  "historyId" : "9923eaf21b54166e7286d4681bb8ef95",
+  "time" : {
+    "start" : 1633585741956,
+    "stop" : 1633585776916,
+    "duration" : 34960
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e47da13a0b77ea75",
+      "name" : "Screenshot",
+      "source" : "e47da13a0b77ea75.png",
+      "type" : "image/png",
+      "size" : 798405
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testClass",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I register with testing777700@testtest.com"
+  }, {
+    "name" : "package",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b4b1c445622b3ff0.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

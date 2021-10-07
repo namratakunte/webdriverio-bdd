@@ -1,0 +1,82 @@
+{
+  "uid" : "65871bc3c6edbf9c",
+  "name" : "Then I click on sign in link",
+  "fullName" : "Register and product checkout: As a registered user, I can able to login to website and logout.Then I click on sign in link",
+  "historyId" : "dd338601ea9fd91395ed6634deb7beb2",
+  "time" : {
+    "start" : 1633585849303,
+    "stop" : 1633585862487,
+    "duration" : 13184
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4f2163813554c958",
+      "name" : "Screenshot",
+      "source" : "4f2163813554c958.png",
+      "type" : "image/png",
+      "size" : 833117
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register and product checkout: As a registered user, I can able to login to website and logout"
+  }, {
+    "name" : "testClass",
+    "value" : "Register and product checkout: As a registered user, I can able to login to website and logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click on sign in link"
+  }, {
+    "name" : "package",
+    "value" : "Register and product checkout: As a registered user, I can able to login to website and logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e81c4949eaa125a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633584295366,
+        "stop" : 1633584309108,
+        "duration" : 13742
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "65871bc3c6edbf9c.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

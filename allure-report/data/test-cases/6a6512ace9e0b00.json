@@ -1,0 +1,72 @@
+{
+  "uid" : "6a6512ace9e0b00",
+  "name" : "Then I enter address detail \"abc\" lastname \"xyz\" company \"IT\" address \"MIDC\" city \"pune\"",
+  "fullName" : "Register and product checkout: As a new user, I can able to register and login to website.Then I enter address detail \"abc\" lastname \"xyz\" company \"IT\" address \"MIDC\" city \"pune\"",
+  "historyId" : "ea3460f1a240c086218315a4256680d5",
+  "time" : {
+    "start" : 1633584236130,
+    "stop" : 1633584247346,
+    "duration" : 11216
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "141d3ac66496c8dc",
+      "name" : "Screenshot",
+      "source" : "141d3ac66496c8dc.png",
+      "type" : "image/png",
+      "size" : 44635
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testClass",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I enter address detail \"abc\" lastname \"xyz\" company \"IT\" address \"MIDC\" city \"pune\""
+  }, {
+    "name" : "package",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6a6512ace9e0b00.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

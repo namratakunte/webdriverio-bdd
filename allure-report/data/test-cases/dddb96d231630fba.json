@@ -1,0 +1,56 @@
+{
+  "uid" : "dddb96d231630fba",
+  "name" : "Then I enter personal information title \"MR\" firstname \"abc\" lastName \"xyz\" email \"testing77779@testtest.com\" password \"123456789\"",
+  "fullName" : "Register and product checkout: As a new user, I can able to register and login to website.Then I enter personal information title \"MR\" firstname \"abc\" lastName \"xyz\" email \"testing77779@testtest.com\" password \"123456789\"",
+  "historyId" : "eab02db9b2dbc0e414c0a88591a4ae75",
+  "time" : {
+    "start" : 1633585313864,
+    "stop" : 1633585313865,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testClass",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I enter personal information title \"MR\" firstname \"abc\" lastName \"xyz\" email \"testing77779@testtest.com\" password \"123456789\""
+  }, {
+    "name" : "package",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dddb96d231630fba.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

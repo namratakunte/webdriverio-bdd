@@ -1,0 +1,82 @@
+{
+  "uid" : "766034159cfd0b05",
+  "name" : "Given I am on the login page",
+  "fullName" : "Register and product checkout: As a new user, I can able to register and login to website.Given I am on the login page",
+  "historyId" : "622e13e4876627252e113feb96240103",
+  "time" : {
+    "start" : 1633585733185,
+    "stop" : 1633585741956,
+    "duration" : 8771
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testClass",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the login page"
+  }, {
+    "name" : "package",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "20206bf679da760f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585651026,
+        "stop" : 1633585663232,
+        "duration" : 12206
+      }
+    }, {
+      "uid" : "5d050628407f51cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585300350,
+        "stop" : 1633585313212,
+        "duration" : 12862
+      }
+    }, {
+      "uid" : "626d284a48cedb0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633584174246,
+        "stop" : 1633584182570,
+        "duration" : 8324
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "766034159cfd0b05.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

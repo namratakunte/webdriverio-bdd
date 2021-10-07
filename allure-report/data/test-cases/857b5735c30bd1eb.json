@@ -1,0 +1,82 @@
+{
+  "uid" : "857b5735c30bd1eb",
+  "name" : "Then I validate product details \"Faded Short Sleeve T-shirts\"",
+  "fullName" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut.Then I validate product details \"Faded Short Sleeve T-shirts\"",
+  "historyId" : "1520965c717f48a70030e73121893b9b",
+  "time" : {
+    "start" : 1633586034197,
+    "stop" : 1633586061790,
+    "duration" : 27593
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d733ec435167808c",
+      "name" : "Screenshot",
+      "source" : "d733ec435167808c.png",
+      "type" : "image/png",
+      "size" : 162132
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut"
+  }, {
+    "name" : "testClass",
+    "value" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I validate product details \"Faded Short Sleeve T-shirts\""
+  }, {
+    "name" : "package",
+    "value" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "96d0bf244cb6a75b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633584487762,
+        "stop" : 1633584517297,
+        "duration" : 29535
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "857b5735c30bd1eb.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

@@ -1,0 +1,82 @@
+{
+  "uid" : "72f60d0da5c0e658",
+  "name" : "Then I add product to cart",
+  "fullName" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut.Then I add product to cart",
+  "historyId" : "3c4d4da563bc42874431d2e3a6c81739",
+  "time" : {
+    "start" : 1633585939763,
+    "stop" : 1633585988443,
+    "duration" : 48680
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a0d9c2854ac5cd84",
+      "name" : "Screenshot",
+      "source" : "a0d9c2854ac5cd84.png",
+      "type" : "image/png",
+      "size" : 159604
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut"
+  }, {
+    "name" : "testClass",
+    "value" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I add product to cart"
+  }, {
+    "name" : "package",
+    "value" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b214157aa1475589",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633584385038,
+        "stop" : 1633584437089,
+        "duration" : 52051
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "72f60d0da5c0e658.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

@@ -1,0 +1,177 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1633585300341' stop='1633585313879'>
+    <name>Register and product checkout: As a new user, I can able to register and login to website</name>
+    <title>Register and product checkout: As a new user, I can able to register and login to website</title>
+    <test-cases>
+        <test-case start='1633585300343' status='passed' stop='1633585300349'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1633585300350' status='passed' stop='1633585313212'>
+            <name>Given I am on the login page</name>
+            <title>Given I am on the login page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1633585313212' status='broken' stop='1633585313864'>
+            <name>When I register with testing77779@testtest.com</name>
+            <title>When I register with testing77779@testtest.com</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>RequestError: read ECONNRESET</message>
+                <stack-trace>RequestError: read ECONNRESET
+                    at ClientRequest.&lt;anonymous> (C:\Users\nikhi\OneDrive\Documents\webdriverio-bdd\node_modules\got\dist\source\core\index.js:956:111)
+                    at Object.onceWrapper (events.js:520:26)
+                    at ClientRequest.emit (events.js:412:35)
+                    at ClientRequest.emit (domain.js:470:12)
+                    at ClientRequest.origin.emit (C:\Users\nikhi\OneDrive\Documents\webdriverio-bdd\node_modules\@szmarczak\http-timer\dist\source\index.js:43:20)
+                    at Socket.socketErrorListener (_http_client.js:475:9)
+                    at Socket.emit (events.js:400:28)
+                    at Socket.emit (domain.js:470:12)
+                    at emitErrorNT (internal/streams/destroy.js:106:8)
+                    at emitErrorCloseNT (internal/streams/destroy.js:74:3)
+                    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+                    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1633585313864' status='pending' stop='1633585313865'>
+            <name>Then I enter personal information title "MR" firstname "abc" lastName "xyz" email "testing77779@testtest.com" password "123456789"</name>
+            <title>Then I enter personal information title "MR" firstname "abc" lastName "xyz" email "testing77779@testtest.com" password "123456789"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1633585313865' status='pending' stop='1633585313865'>
+            <name>When i enter personal information DOB "7" months "5" years "1991"</name>
+            <title>When i enter personal information DOB "7" months "5" years "1991"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1633585313865' status='pending' stop='1633585313866'>
+            <name>Then I enter address detail "abc" lastname "xyz" company "IT" address "MIDC" city "pune"</name>
+            <title>Then I enter address detail "abc" lastname "xyz" company "IT" address "MIDC" city "pune"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1633585313866' status='pending' stop='1633585313866'>
+            <name>When I select state "8" postalcode "11104" mobilenumber "8888888888" myaddress "Allise"</name>
+            <title>When I select state "8" postalcode "11104" mobilenumber "8888888888" myaddress "Allise"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1633585313867' status='pending' stop='1633585313867'>
+            <name>Then I click on register button</name>
+            <title>Then I click on register button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1633585313867' status='pending' stop='1633585313867'>
+            <name>Then I validate correct "abc" lastname "xyz" is displayed</name>
+            <title>Then I validate correct "abc" lastname "xyz" is displayed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1633585313868' status='pending' stop='1633585313868'>
+            <name>Then I sign out from application</name>
+            <title>Then I sign out from application</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1633585313868' status='passed' stop='1633585313876'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

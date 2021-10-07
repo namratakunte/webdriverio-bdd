@@ -1,0 +1,72 @@
+{
+  "uid" : "1ce761d2c6a7f1c9",
+  "name" : "Then I sign out from application",
+  "fullName" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut.Then I sign out from application",
+  "historyId" : "1e7469aec58e5110c9d4c39d39a221b0",
+  "time" : {
+    "start" : 1633584517298,
+    "stop" : 1633584530393,
+    "duration" : 13095
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3656ebaa19501e47",
+      "name" : "Screenshot",
+      "source" : "3656ebaa19501e47.png",
+      "type" : "image/png",
+      "size" : 202525
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut"
+  }, {
+    "name" : "testClass",
+    "value" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I sign out from application"
+  }, {
+    "name" : "package",
+    "value" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1ce761d2c6a7f1c9.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

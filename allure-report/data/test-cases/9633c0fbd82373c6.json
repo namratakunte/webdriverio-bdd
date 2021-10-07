@@ -1,0 +1,98 @@
+{
+  "uid" : "9633c0fbd82373c6",
+  "name" : "Then I click on register button",
+  "fullName" : "Register and product checkout: As a new user, I can able to register and login to website.Then I click on register button",
+  "historyId" : "a59dbebdef092863a85f055035d9e004",
+  "time" : {
+    "start" : 1633585819256,
+    "stop" : 1633585832447,
+    "duration" : 13191
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "84cd8ee73e11ee54",
+      "name" : "Screenshot",
+      "source" : "84cd8ee73e11ee54.png",
+      "type" : "image/png",
+      "size" : 36017
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testClass",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click on register button"
+  }, {
+    "name" : "package",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b95bcdba2ea2bd5",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1633585698818,
+        "stop" : 1633585698819,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "e954a63147efda78",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1633585313867,
+        "stop" : 1633585313867,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9068d24f80df2f03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633584256681,
+        "stop" : 1633584273954,
+        "duration" : 17273
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9633c0fbd82373c6.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

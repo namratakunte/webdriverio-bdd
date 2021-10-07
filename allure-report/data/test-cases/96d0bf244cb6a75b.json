@@ -1,0 +1,72 @@
+{
+  "uid" : "96d0bf244cb6a75b",
+  "name" : "Then I validate product details \"Faded Short Sleeve T-shirts\"",
+  "fullName" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut.Then I validate product details \"Faded Short Sleeve T-shirts\"",
+  "historyId" : "1520965c717f48a70030e73121893b9b",
+  "time" : {
+    "start" : 1633584487762,
+    "stop" : 1633584517297,
+    "duration" : 29535
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7584b5db003352d4",
+      "name" : "Screenshot",
+      "source" : "7584b5db003352d4.png",
+      "type" : "image/png",
+      "size" : 198190
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut"
+  }, {
+    "name" : "testClass",
+    "value" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I validate product details \"Faded Short Sleeve T-shirts\""
+  }, {
+    "name" : "package",
+    "value" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "96d0bf244cb6a75b.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

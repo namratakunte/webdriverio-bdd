@@ -1,0 +1,56 @@
+{
+  "uid" : "99405be38f8ec55",
+  "name" : "Then I validate correct \"abc\" lastname \"xyz\" is displayed",
+  "fullName" : "Register and product checkout: As a new user, I can able to register and login to website.Then I validate correct \"abc\" lastname \"xyz\" is displayed",
+  "historyId" : "3e64642d6bccbada6fb4115e57b619d3",
+  "time" : {
+    "start" : 1633585698819,
+    "stop" : 1633585698820,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testClass",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I validate correct \"abc\" lastname \"xyz\" is displayed"
+  }, {
+    "name" : "package",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "99405be38f8ec55.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

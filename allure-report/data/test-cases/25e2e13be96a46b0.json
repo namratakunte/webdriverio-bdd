@@ -1,0 +1,74 @@
+{
+  "uid" : "25e2e13be96a46b0",
+  "name" : "When I Login with \"testing777700@testtest.com\" and \"123456789\"",
+  "fullName" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut.When I Login with \"testing777700@testtest.com\" and \"123456789\"",
+  "historyId" : "d1fc3bbf6dc1aecdbefbe90e089d3e51",
+  "time" : {
+    "start" : 1633585916988,
+    "stop" : 1633585939423,
+    "duration" : 22435
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "70481d897bbdcbed",
+      "name" : "Screenshot",
+      "source" : "70481d897bbdcbed.png",
+      "type" : "image/png",
+      "size" : 139970
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut"
+  }, {
+    "name" : "testClass",
+    "value" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I Login with \"testing777700@testtest.com\" and \"123456789\""
+  }, {
+    "name" : "package",
+    "value" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "25e2e13be96a46b0.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

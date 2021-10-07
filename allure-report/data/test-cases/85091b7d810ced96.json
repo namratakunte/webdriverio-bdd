@@ -1,0 +1,72 @@
+{
+  "uid" : "85091b7d810ced96",
+  "name" : "When I select state \"8\" postalcode \"11104\" mobilenumber \"8888888888\" myaddress \"Allise\"",
+  "fullName" : "Register and product checkout: As a new user, I can able to register and login to website.When I select state \"8\" postalcode \"11104\" mobilenumber \"8888888888\" myaddress \"Allise\"",
+  "historyId" : "d9a6690ae3dd63493bef7eb88b541e5e",
+  "time" : {
+    "start" : 1633584247347,
+    "stop" : 1633584256680,
+    "duration" : 9333
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b5e8501cba7c211e",
+      "name" : "Screenshot",
+      "source" : "b5e8501cba7c211e.png",
+      "type" : "image/png",
+      "size" : 39624
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testClass",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select state \"8\" postalcode \"11104\" mobilenumber \"8888888888\" myaddress \"Allise\""
+  }, {
+    "name" : "package",
+    "value" : "Register and product checkout: As a new user, I can able to register and login to website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "85091b7d810ced96.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

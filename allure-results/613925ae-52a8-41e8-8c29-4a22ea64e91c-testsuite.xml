@@ -1,0 +1,177 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1633584174241' stop='1633584287916'>
+    <name>Register and product checkout: As a new user, I can able to register and login to website</name>
+    <title>Register and product checkout: As a new user, I can able to register and login to website</title>
+    <test-cases>
+        <test-case start='1633584174242' status='passed' stop='1633584174245'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1633584174246' status='passed' stop='1633584182570'>
+            <name>Given I am on the login page</name>
+            <title>Given I am on the login page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1633584182570' status='passed' stop='1633584215272'>
+            <name>When I register with testing77779@testtest.com</name>
+            <title>When I register with testing77779@testtest.com</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='de2f04b5-801d-446c-b83a-936c6b1ced8e-attachment.png' type='image/png' size='798405'/>
+            </attachments>
+        </test-case>
+        <test-case start='1633584215272' status='passed' stop='1633584229580'>
+            <name>Then I enter personal information title "MR" firstname "abc" lastName "xyz" email "testing77779@testtest.com" password "123456789"</name>
+            <title>Then I enter personal information title "MR" firstname "abc" lastName "xyz" email "testing77779@testtest.com" password "123456789"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='ea489599-fefc-487f-9776-f87e41c5adbc-attachment.png' type='image/png' size='35539'/>
+            </attachments>
+        </test-case>
+        <test-case start='1633584229580' status='passed' stop='1633584236130'>
+            <name>When i enter personal information DOB "7" months "5" years "1991"</name>
+            <title>When i enter personal information DOB "7" months "5" years "1991"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d6b17f02-45ac-489c-aef8-5214cb0812c9-attachment.png' type='image/png' size='43334'/>
+            </attachments>
+        </test-case>
+        <test-case start='1633584236130' status='passed' stop='1633584247346'>
+            <name>Then I enter address detail "abc" lastname "xyz" company "IT" address "MIDC" city "pune"</name>
+            <title>Then I enter address detail "abc" lastname "xyz" company "IT" address "MIDC" city "pune"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7a2e0b16-45ad-4c15-902f-7bcd1f5207c2-attachment.png' type='image/png' size='44635'/>
+            </attachments>
+        </test-case>
+        <test-case start='1633584247347' status='passed' stop='1633584256680'>
+            <name>When I select state "8" postalcode "11104" mobilenumber "8888888888" myaddress "Allise"</name>
+            <title>When I select state "8" postalcode "11104" mobilenumber "8888888888" myaddress "Allise"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='cfa3e5da-f27d-427a-9e1e-6a0506cefb11-attachment.png' type='image/png' size='39624'/>
+            </attachments>
+        </test-case>
+        <test-case start='1633584256681' status='passed' stop='1633584273954'>
+            <name>Then I click on register button</name>
+            <title>Then I click on register button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='8a72ca2d-e3e6-4d63-8821-98f18da32dff-attachment.png' type='image/png' size='36017'/>
+            </attachments>
+        </test-case>
+        <test-case start='1633584273955' status='passed' stop='1633584274295'>
+            <name>Then I validate correct "abc" lastname "xyz" is displayed</name>
+            <title>Then I validate correct "abc" lastname "xyz" is displayed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='0d75950e-c7c8-426f-ac95-004f210ef7da-attachment.png' type='image/png' size='159604'/>
+            </attachments>
+        </test-case>
+        <test-case start='1633584274295' status='passed' stop='1633584287912'>
+            <name>Then I sign out from application</name>
+            <title>Then I sign out from application</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='4dd02193-548f-490d-8acc-bd78c351b90c-attachment.png' type='image/png' size='159604'/>
+            </attachments>
+        </test-case>
+        <test-case start='1633584287912' status='passed' stop='1633584287913'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

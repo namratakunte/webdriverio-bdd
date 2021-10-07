@@ -1,0 +1,37 @@
+{
+  "total" : 3,
+  "items" : [ {
+    "uid" : "bb0a0a0ef1210fa39b7a7c3f082beb9b",
+    "name" : "Register and product checkout: As a new user, I can able to register and login to website",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 11,
+      "unknown" : 0,
+      "total" : 12
+    }
+  }, {
+    "uid" : "cff96a7306efbfc72d8aa844b54b4a93",
+    "name" : "Register and product checkout: As a registered user, I can able to add products to cart and CheckOut",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 10,
+      "unknown" : 0,
+      "total" : 10
+    }
+  }, {
+    "uid" : "bddc30392c54f109dcce308055a62dfb",
+    "name" : "Register and product checkout: As a registered user, I can able to login to website and logout",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 7
+    }
+  } ]
+}

@@ -1,0 +1,82 @@
+{
+  "uid" : "72e7e7e681851ee6",
+  "name" : "",
+  "fullName" : "Register and product checkout: As a registered user, I can able to login to website and logout.",
+  "historyId" : "87b8e03bc6dcfcbd4d6e942dc04a37d2",
+  "time" : {
+    "start" : 1633585897448,
+    "stop" : 1633585897449,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register and product checkout: As a registered user, I can able to login to website and logout"
+  }, {
+    "name" : "testClass",
+    "value" : "Register and product checkout: As a registered user, I can able to login to website and logout"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Register and product checkout: As a registered user, I can able to login to website and logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "eabfb051087aa400",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633585846180,
+        "stop" : 1633585846183,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "77347860e134f76b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633584345532,
+        "stop" : 1633584345533,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "a52b41100a5b45c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633584287949,
+        "stop" : 1633584287950,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "72e7e7e681851ee6.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

@@ -1,0 +1,82 @@
+{
+  "uid" : "a9bd05653f30ffad",
+  "name" : "Then I validate correct \"abc\" lastname \"xyz\" is displayed",
+  "fullName" : "Register and product checkout: As a registered user, I can able to login to website and logout.Then I validate correct \"abc\" lastname \"xyz\" is displayed",
+  "historyId" : "cf8c1ce399647024861eb2f5c0ed3b82",
+  "time" : {
+    "start" : 1633585883736,
+    "stop" : 1633585884074,
+    "duration" : 338
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "98bf5e9b1be1e54e",
+      "name" : "Screenshot",
+      "source" : "98bf5e9b1be1e54e.png",
+      "type" : "image/png",
+      "size" : 159604
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register and product checkout: As a registered user, I can able to login to website and logout"
+  }, {
+    "name" : "testClass",
+    "value" : "Register and product checkout: As a registered user, I can able to login to website and logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I validate correct \"abc\" lastname \"xyz\" is displayed"
+  }, {
+    "name" : "package",
+    "value" : "Register and product checkout: As a registered user, I can able to login to website and logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "20e416e692b02b1d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633584329825,
+        "stop" : 1633584330168,
+        "duration" : 343
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a9bd05653f30ffad.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}
