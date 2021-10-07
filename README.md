@@ -1,5 +1,5 @@
 
-### WebdriverIO-v6 boilerplate code with Cucumber BDD
+### WebdriverIO with Cucumber BDD
 
 This repository contains a automation tests builds using Cucumber BDD framework. 
 
