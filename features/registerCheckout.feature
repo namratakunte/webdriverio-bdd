@@ -15,7 +15,7 @@ Feature: Register and product checkout
 
     Examples:
       | email                     | title | Firstname | Lastname | password  | days | months | years | company | address | city | state | postalcode | mobilenumber | myaddress |
-      | testing777700@testtest.com | MR    | abc       | xyz      | 123456789 | 7    | 5      | 1991  | IT      | MIDC    | pune | 8     | 11104      | 8888888888   | Allise    |
+      | testing777799@testtest.com | MR    | abc       | xyz      | 123456789 | 7    | 5      | 1991  | IT      | MIDC    | pune | 8     | 11104      | 8888888888   | Allise    |
 
   @Loginlogout
   Scenario Outline: As a registered user, I can able to login to website and logout
@@ -27,7 +27,7 @@ Feature: Register and product checkout
     Then I sign out from application
     Examples:
       | email                     | password  | Firstname | Lastname |
-      | testing777700@testtest.com | 123456789 | abc       | xyz      |
+      | testing777799@testtest.com | 123456789 | abc       | xyz      |
 
   @Checkout
   Scenario Outline: As a registered user, I can able to add products to cart and CheckOut
@@ -42,4 +42,4 @@ Feature: Register and product checkout
     Then I sign out from application
     Examples:
       | email                     | password  | Firstname | Lastname | ProductName                 |
-      | testing777700@testtest.com | 123456789 | abc       | xyz      | Faded Short Sleeve T-shirts |
+      | testing777799@testtest.com | 123456789 | abc       | xyz      | Faded Short Sleeve T-shirts |
